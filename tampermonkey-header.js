@@ -16,9 +16,9 @@ module.exports = {
       "https://raw.githubusercontent.com/discordjs/discord.js/webpack/discord.11.6.4.min.js",
     ],
     updateURL:
-      "https://github.com/chithakumar13/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
+      "https://github.com/hassansaadfr/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
     downloadURL:
-      "https://github.com/chithakumar13/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
+      "https://github.com/hassansaadfr/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js",
     noFrame: true,
   },
 };
