@@ -12,7 +12,7 @@ module.exports = {
     grant: ["GM_xmlhttpRequest"],
     connect: ["ea.com", "ea2.com", "futbin.com", "discordapp.com"],
     require: [
-      "https://github.com/chithakumar13/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+      "https://github.com/hassansaadfr/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
       "https://raw.githubusercontent.com/discordjs/discord.js/webpack/discord.11.6.4.min.js",
     ],
     updateURL:
